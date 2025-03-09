@@ -1,0 +1,17 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://localhost:1313/categories/</loc><lastmod>2025-03-09T15:00:00&#43;07:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/devops/</loc><lastmod>2025-03-09T15:00:00&#43;07:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/devops-intro/</loc><lastmod>2025-03-09T15:00:00&#43;07:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2025-03-09T15:00:00&#43;07:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2025-03-09T15:00:00&#43;07:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/study/</loc><lastmod>2025-03-09T15:00:00&#43;07:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2025-03-09T15:00:00&#43;07:00</lastmod></url><url>
+            <loc>http://localhost:1313/author/</loc><lastmod>2025-03-09T14:00:00&#43;07:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/general/</loc><lastmod>2025-03-09T14:00:00&#43;07:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/hello-world/</loc><lastmod>2025-03-09T14:00:00&#43;07:00</lastmod></url><url>
+            <loc>http://localhost:1313/author/ho%C3%A0ng-%C4%91%E1%BA%A1t/</loc><lastmod>2025-03-09T14:00:00&#43;07:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/introduction/</loc><lastmod>2025-03-09T14:00:00&#43;07:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/test/</loc><lastmod>2025-03-09T14:00:00&#43;07:00</lastmod></url></urlset>

@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hoàng Đạt - Author - My blog</title>
+        <link>http://localhost:1313/author/ho%C3%A0ng-%C4%91%E1%BA%A1t/</link>
+        <description>Hoàng Đạt - Author - My blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 09 Mar 2025 14:00:00 &#43;0700</lastBuildDate><atom:link href="http://localhost:1313/author/ho%C3%A0ng-%C4%91%E1%BA%A1t/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello World</title>
+    <link>http://localhost:1313/posts/hello-world/</link>
+    <pubDate>Sun, 09 Mar 2025 14:00:00 &#43;0700</pubDate>
+    <author>Hoàng Đạt</author>
+    <guid>http://localhost:1313/posts/hello-world/</guid>
+    <description><![CDATA[<p>Nội dung bài viết ở đây&hellip;</p>]]></description>
+</item>
+</channel>
+</rss>

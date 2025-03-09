@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Author - Author - My blog</title>
+        <link>http://localhost:1313/author/</link>
+        <description>Author - Author - My blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 09 Mar 2025 14:00:00 &#43;0700</lastBuildDate><atom:link href="http://localhost:1313/author/" rel="self" type="application/rss+xml" /><item>
+    <title>Hoàng Đạt</title>
+    <link>http://localhost:1313/author/ho%C3%A0ng-%C4%91%E1%BA%A1t/</link>
+    <pubDate>Sun, 09 Mar 2025 14:00:00 &#43;0700</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/author/ho%C3%A0ng-%C4%91%E1%BA%A1t/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
